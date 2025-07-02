@@ -1,2 +1,5 @@
-# sql_data_wh_project_2025
-Build a modern data warehouse using SQL Server.
+# Data Warehouse and Analytics Project
+
+Welcome to the **Data Warehouse and Analytics Project** repository!
+
+---
